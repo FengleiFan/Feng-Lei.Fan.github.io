@@ -4,6 +4,7 @@ Feng-Lei FAN （FAN=<span style="color:brown;"> Frontier of Artificial Networks 
 Bio
 ---------
 ![MyBio](https://github.com/FengleiFan/Feng-Lei.Fan.github.io/blob/gh-pages/biography.jpg)
+<img src="https://github.com/FengleiFan/Feng-Lei.Fan.github.io/blob/gh-pages/biography.jpg" alt="hi" class="inline"/>
 I am fourth-year BME PhD student in a small but lovely university Rensselaer Polytechnic Institute ([RPI](https://www.rpi.edu/)), US, where I feel blessed to be advised by [Dr. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang). Prior to RPI, I studied my undergraduate at [Harbin Institute of Tachnology](http://en.hit.edu.cn/), China. 
 
 I am interested in deep learning, fuzzy logic, applied math, and medical imaging. Recently, my research focuses on developing advanced deep learning models and their interpretation. I am also operating a [blog](https://www.ershicimi.com/a/RjleG2QD) over WeChat together with my friends. If you are interested in my research, please feel free to reach me out (hitfanfenglei@gmail.com). 
