@@ -18,14 +18,14 @@ News
 
 * **06/2020:** Our paper [**Soft Autoencoder and Its Wavelet Adaptation Interpretation**](https://ieeexplore.ieee.org/document/9162438) is accepted by IEEE TCI.
 
-* **01/2020:** My internship at [**MIT-IBM Watson AI Lab**](https://mitibmwatsonailab.mit.edu/) starts! My mentor is [Dimitry Krotov](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-krotov).
+* **01/2020:** My internship at [**MIT-IBM Watson AI Lab**](https://mitibmwatsonailab.mit.edu/) starts! My mentor is [**Dimitry Krotov**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-krotov).
 
 * **12/2019:** Our paper [**Quadratic Autoencoder (Q-AE) for Low-dose CT Denoising**](https://ieeexplore.ieee.org/abstract/document/8946589) is accepted by IEEE TCI.
 
 * **09/2019:** Our paper [**Universal approximation with quadratic deep networks**](https://www.sciencedirect.com/science/article/pii/S0893608020300095) is accepted by Neural Networks.
 
 
-* **07/2019:** Presentation at Fully3D.
+* **07/2019:** Presentation at [**Fully3D2019**](https://www.med.upenn.edu/fully3d/).
 
 * **06/2019:** My internship at [**Generic Electric, Global Research Center**](https://www.ge.com/research/) starts!
 
