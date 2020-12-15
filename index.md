@@ -1,4 +1,4 @@
-Feng-Lei FAN （FAN=<span style="color:blue;"> Frontier of Artificial Networks </span>）
+Feng-Lei FAN （FAN=<span style="color:brown;"> Frontier of Artificial Networks </span>）
 ============
 
 Bio
