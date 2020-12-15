@@ -10,7 +10,7 @@ I am interested in deep learning, fuzzy logic, applied math, and medical imaging
 
 
 
-[[Goodgle Scholar](https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en)][[Curriculum Vitae]]
+[[Goodgle Scholar](https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en)][[Curriculum Vitae](File:///D:MyResume.pdf)]
 ----------
 
 News
