@@ -5,20 +5,10 @@ Feng-Lei Fan
 Troy, NY, US              hitfanfenglei@gmail.com                  
 -------------------     ----------------------------
 
-Education
+Bio
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by Dr. Ge Wang. 
 
 Experience
 ----------
