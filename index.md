@@ -18,7 +18,7 @@ I am interested in deep learning, fuzzy logic, applied math, and medical imaging
 
 News
 ----------
-* **10/2020:** Our [blog](https://www.ershicimi.com/a/RjleG2QD) has attracted over 5,000 followers!
+* **10/2020:** Our [blog](https://www.ershicimi.com/a/RjleG2QD) has attracted over **5,000** followers!
 
 * **06/2020:** Our paper [**Soft Autoencoder and Its Wavelet Adaptation Interpretation**](https://ieeexplore.ieee.org/document/9162438) is accepted by **IEEE TCI**.
 
