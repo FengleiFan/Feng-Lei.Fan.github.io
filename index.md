@@ -1,4 +1,4 @@
-Feng-Lei FAN
+Feng-Lei FAN （<span style="color:blue;"> Frontier of Artificial Networks </span>）
 ============
 
 -------------------     ----------------------------
@@ -9,7 +9,7 @@ Bio
 ---------
 
 I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by Dr. Ge Wang. 
-<span style="color:red;">这是比font标签更好的方式。可以试试。</span>
+
 
 Experience
 ----------
