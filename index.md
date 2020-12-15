@@ -16,11 +16,9 @@ I am interested in deep learning, fuzzy logic, applied math, and medical imaging
 News
 ----------
 
-**Your Most Recent Work Experience:**
+**06/2020:** Our paper [Soft Autoencoder and Its Wavelet Adaptation Interpretation](https://ieeexplore.ieee.org/document/9162438) is accepted by IEEE TCI
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+
 
 * First item
 
