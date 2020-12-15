@@ -16,12 +16,8 @@ I am interested in deep learning, fuzzy logic, applied math, and medical imaging
 News
 ----------
 
-**06/2020:** Our paper [Soft Autoencoder and Its Wavelet Adaptation Interpretation](https://ieeexplore.ieee.org/document/9162438) is accepted by IEEE TCI
+* **06/2020:** Our paper [Soft Autoencoder and Its Wavelet Adaptation Interpretation](https://ieeexplore.ieee.org/document/9162438) is accepted by IEEE TCI
 
 
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
