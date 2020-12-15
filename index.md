@@ -1,4 +1,4 @@
-Feng-Lei FAN (```diff - Frontier of Artificial Networks ```)
+Feng-Lei FAN (<div class="text-blue mb-2"> .text-blue on white </div>)
 ============
 
 -------------------     ----------------------------
