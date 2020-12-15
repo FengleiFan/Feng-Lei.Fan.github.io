@@ -1,14 +1,10 @@
-Feng-Lei FAN （<span style="color:blue;"> Frontier of Artificial Networks </span>）
+Feng-Lei FAN （FAN=<span style="color:blue;"> Frontier of Artificial Networks </span>）
 ============
-
--------------------     ----------------------------
-Troy, NY, US              hitfanfenglei@gmail.com                  
--------------------     ----------------------------
 
 Bio
 ---------
 
-I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by Dr. Ge Wang. 
+I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by [Dr. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang). 
 
 
 Experience
