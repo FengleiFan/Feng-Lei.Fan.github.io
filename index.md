@@ -9,7 +9,7 @@ Bio
 
 I am a fourth-year BME PhD student in a small but lovely university Rensselaer Polytechnic Institute ([RPI](https://www.rpi.edu/)), US, where I feel blessed to be advised by [Dr. Ge Wang](https://biotech.rpi.edu/centers/bic/people/faculty/ge-wang) and have so many wonderful friends. Prior to RPI, I studied my undergraduate at [Harbin Institute of Tachnology](http://en.hit.edu.cn/), China. 
 
-I am interested in deep learning, fuzzy logic, applied math, and medical imaging. Recently, my research focuses on developing advanced deep learning models and their interpretation. I am a big fan of math and physics. I am also operating a [blog](https://www.ershicimi.com/a/RjleG2QD) over WeChat together with my friends. If you are interested in my research, please feel free to reach me out (hitfanfenglei@gmail.com). 
+I am interested in deep learning, fuzzy logic, applied math, and medical imaging. Recently, my research focuses on developing advanced deep learning models and their interpretation. Besides my research, I am a big fan of math and physics. I am also operating a [blog](https://www.ershicimi.com/a/RjleG2QD) over WeChat together with my friends. If you are interested in my research, please feel free to reach me out (hitfanfenglei@gmail.com). 
 
 
 
