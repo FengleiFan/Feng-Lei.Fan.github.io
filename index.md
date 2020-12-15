@@ -1,6 +1,9 @@
-Feng-Lei Fan
+Feng-Lei FAN ()
 ============
-
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 -------------------     ----------------------------
 Troy, NY, US              hitfanfenglei@gmail.com                  
 -------------------     ----------------------------
