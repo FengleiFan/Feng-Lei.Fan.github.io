@@ -1,4 +1,4 @@
-Feng-Lei FAN (<div class="text-blue mb-2"> .text-blue on white </div>)
+Feng-Lei FAN
 ============
 
 -------------------     ----------------------------
@@ -9,6 +9,9 @@ Bio
 ---------
 
 I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by Dr. Ge Wang. 
+<div class="text-blue mb-2">
+  .text-blue on white
+</div>
 
 Experience
 ----------
