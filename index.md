@@ -1,4 +1,4 @@
-Feng-Lei FAN (```+ Frontier of Artificial Networks ```)
+Feng-Lei FAN (```diff - Frontier of Artificial Networks ```)
 ============
 
 -------------------     ----------------------------
