@@ -9,9 +9,7 @@ Bio
 ---------
 
 I am fourth-year PhD student in a small but lovely university Rensselaer Polytechnic Institute, where I was fortunate to be advised by Dr. Ge Wang. 
-<div class="text-blue mb-2">
-  .text-blue on white
-</div>
+<span style="color:red;">这是比font标签更好的方式。可以试试。</span>
 
 Experience
 ----------
