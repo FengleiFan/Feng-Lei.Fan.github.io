@@ -20,7 +20,7 @@ News
 
 * **01/2020:** My internship at [**MIT-IBM Watson AI Lab**](https://mitibmwatsonailab.mit.edu/) starts! My mentor is [**Dimitry Krotov**](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-krotov).
 
-* **12/2019:** Our paper [**Quadratic Autoencoder (Q-AE) for Low-dose CT Denoising**](https://ieeexplore.ieee.org/abstract/document/8946589) is accepted by IEEE TCI.
+* **12/2019:** Our paper [**Quadratic Autoencoder (Q-AE) for Low-dose CT Denoising**](https://ieeexplore.ieee.org/abstract/document/8946589) is accepted by IEEE TMI.
 
 * **09/2019:** Our paper [**Universal approximation with quadratic deep networks**](https://www.sciencedirect.com/science/article/pii/S0893608020300095) is accepted by Neural Networks.
 
