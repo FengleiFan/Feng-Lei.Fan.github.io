@@ -38,6 +38,23 @@ News
 
 * **04/2019:** I am awarded as [**IBM-RPI AI Scholarship**](https://airc.rpi.edu/aihn-scholars). IBM will support my research by covering my tuition and living expenses until graduation.
 
+* **04/2018:** Our paper [**Learning From Pseudo-Randomness With an Artificial Neural Network–Does God Play Pseudo-Dice?**](https://ieeexplore.ieee.org/abstract/document/8350369) is accepted by IEEE Access.
+
+* **12/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
+
+* **06/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
+
+* **06/2017:** My math paper [**An Extending Result on Spectral Radius of Bipartite Graphs**](https://www.jstor.org/stable/90020207?seq=1) is accepted by Taiwanese Journal of Mathematics.
+
+* **05/2017:** Our paper [**A new type of neurons for machine learning**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2920) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
+
+* **06/2016:** My math paper [**A characterization of strongly regular graphs in terms of the largest signless Laplacian eigenvalues**](https://www.sciencedirect.com/science/article/pii/S0024379516301598) is accepted by Linear Algebra and its Applications.
+
+
+
+
+
+
 
 
 
