@@ -42,8 +42,6 @@ News
 
 * **12/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
 
-* **06/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
-
 * **06/2017:** My undergraduate reserch work [**An Extending Result on Spectral Radius of Bipartite Graphs**](https://www.jstor.org/stable/90020207?seq=1) is accepted by Taiwanese Journal of Mathematics.
 
 * **05/2017:** Our paper [**A new type of neurons for machine learning**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2920) is accepted by International Journal for Numerical Methods in Biomedical Engineering.
