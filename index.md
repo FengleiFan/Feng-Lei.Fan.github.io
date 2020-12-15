@@ -2,8 +2,7 @@ Feng-Lei Fan
 ============
 
 -------------------     ----------------------------
-Troy, NY, US              hitfanfenglei@gmail.com
-                         
+Troy, NY, US              hitfanfenglei@gmail.com                  
 -------------------     ----------------------------
 
 Education
