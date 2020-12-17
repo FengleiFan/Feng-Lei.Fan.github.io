@@ -40,7 +40,7 @@ News
 
 * **04/2018:** Our paper [**Learning From Pseudo-Randomness With an Artificial Neural Network–Does God Play Pseudo-Dice?**](https://ieeexplore.ieee.org/abstract/document/8350369) is accepted by ***IEEE Access***.
 
-* **12/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by **International Journal for Numerical Methods in Biomedical Engineering**.
+* **12/2017:** Our paper [**Generalized backpropagation algorithm for training second‐order neural networks**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cnm.2956) is accepted by ***International Journal for Numerical Methods in Biomedical Engineering***.
 
 * **06/2017:** My undergraduate reserch work [**An Extending Result on Spectral Radius of Bipartite Graphs**](https://www.jstor.org/stable/90020207?seq=1) is accepted by ***Taiwanese Journal of Mathematics***.
 
