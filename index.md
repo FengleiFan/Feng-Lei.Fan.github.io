@@ -13,7 +13,7 @@ I am interested in deep learning, fuzzy logic, applied math, and medical imaging
 
 
 
-[<span style="color:brown;">[Goodgle Scholar](https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en)</span>][<span style="color:brown;">[Curriculum Vitae](https://github.com/FengleiFan/Feng-Lei.Fan.github.io/blob/gh-pages/MyResume.pdf)</span>]
+[<span style="color:brown;">[Google Scholar](https://scholar.google.com/citations?user=YPmyK2wAAAAJ&hl=en)</span>][<span style="color:brown;">[Curriculum Vitae](https://github.com/FengleiFan/Feng-Lei.Fan.github.io/blob/gh-pages/MyResume.pdf)</span>]
 ----------
 
 
